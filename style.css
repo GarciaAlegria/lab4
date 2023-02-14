@@ -1,0 +1,169 @@
+.box{
+    position: absolute;
+    left: 25%;
+    width: 620px;
+    height: 620px;
+}
+
+.squarebase {
+    position: absolute;
+    left: 35%;
+    width: 400px;
+    top: 40%;
+    height: 250px;
+    background: rgb(251, 255, 0);
+}
+.rectanglesquarebase1{
+    position: absolute;
+    left: 35%;
+    top: 40%;
+    width: 15px;
+    height: 250px;
+    background: black;
+}
+.rectanglesquarebase2{
+    position: absolute;
+    left: 97%;
+    top: 40%;
+    width: 15px;
+    height: 250px;
+    background: black;
+}
+.rectanglesquarebase3{
+    position: absolute;
+    left: 35%;
+    top: 78.2%;
+    width: 400px;
+    height: 15px;
+    background: black;
+}
+.squareventana{
+    position: absolute;
+    left: 42%;
+    top: 48%;
+    width: 120px;
+    height: 120px;
+    background: white;
+}
+.rectangleventana1{
+    position: absolute;
+    left: 42%;
+    top: 48%;
+    width: 120px;
+    height: 15px;
+    background: black;
+}
+.rectangleventana2{
+    position: absolute;
+    left: 42%;
+    top: 65%;
+    width: 120px;
+    height: 15px;
+    background: black;
+}
+.rectangleventana3{
+    position: absolute;
+    left: 42%;
+    top: 48%;
+    width: 15px;
+    height: 120px;
+    background: black;
+}
+.rectangleventana4{
+    position: absolute;
+    left: 59%;
+    top: 48%;
+    width: 15px;
+    height: 120px;
+    background: black;
+}
+.rectangleventana5{
+    position: absolute;
+    left: 42%;
+    top: 56.5%;
+    width: 120px;
+    height: 15px;
+    background: black;
+}
+.rectangleventana6{
+    position: absolute;
+    left: 50.5%;
+    top: 48%;
+    width: 15px;
+    height: 120px;
+    background: black;
+}
+.rectanglechimenea{
+    position: absolute;
+    left: 38%;
+    top: 2%;
+    width: 100px;
+    height: 218px;
+    background: rgb(209, 126, 17);
+}
+.rectanglechimenea1{
+    position: absolute;
+    left: 38%;
+    top: 2%;
+    width: 15px;
+    height: 218px;
+    background: black
+}
+.rectanglechimenea2{
+    position: absolute;
+    left: 52.2%;
+    top: 2%;
+    width: 15px;
+    height: 218px;
+    background: black
+}
+.rectanglechimenea3{
+    position: absolute;
+    left: 38%;
+    top: 2%;
+    width: 101px;
+    height: 15px;
+    background: black
+}
+.triangletecho{
+    position: absolute;
+    left: 27%;
+    top: 0%;
+    width: 0;
+    height: 0;
+        border-left: 250px solid transparent;
+        border-right: 250px solid transparent;
+        border-bottom: 250px solid rgb(7, 0, 0);     
+}
+.rectanglepuerta{
+    position: absolute;
+    left: 69%;
+    top: 44%;
+    width: 130px;
+    height: 214px;
+    background: gray;
+}
+.rectanglepuerta1{
+    position: absolute;
+    left: 69%;
+    top: 44%;
+    width: 15px;
+    height: 214px;
+    background: black;
+}
+.rectanglepuerta2{
+    position: absolute;
+    left: 88%;
+    top: 44%;
+    width: 15px;
+    height: 214px;
+    background: black;
+}
+.rectanglepuerta3{
+    position: absolute;
+    left: 69%;
+    top: 44%;
+    width: 125px;
+    height: 15px;
+    background: black;
+}
